@@ -111,6 +111,6 @@ Special thanks to **Mr. Taib Ali** for guidance, and to the University of South 
 
 ## 📬 Contact
 **Muhammad Ammar**  
-📧 [Insert email]  
-🌐 [LinkedIn or GitHub if available]
+📧 chammar310@gmail.com
+
 
