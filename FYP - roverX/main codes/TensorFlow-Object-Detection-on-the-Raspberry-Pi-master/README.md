@@ -104,17 +104,8 @@ python3 Object_detection_picamera.py          # For PiCamera
 python3 Object_detection_picamera.py --usbcam # For USB webcam
 ```
 
-<p align="center">
-  <img src="doc/kitchen.png" alt="Detection Example">
-</p>
-
 ---
 
-## 🐾 Bonus: Pet Detector
-
-<p align="center">
-  <img src="doc/pet_detector_demo.png" alt="Pet Detector Demo">
-</p>
 
 ### Description
 Detect your pet near a door and send an alert using the Pet_detector.py script. Works with the same TensorFlow setup.
