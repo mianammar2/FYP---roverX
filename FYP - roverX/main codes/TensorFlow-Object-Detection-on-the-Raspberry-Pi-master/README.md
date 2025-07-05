@@ -4,10 +4,6 @@
 > 🔄 **Updated: January 2025**  
 > A step-by-step guide to set up real-time object detection using a Raspberry Pi, TensorFlow, and a PiCamera or USB webcam.
 
-<p align="center">
-  <img src="doc/Picamera_livingroom.png" alt="Demo Image">
-</p>
-
 ---
 
 ## 🧠 What You'll Learn
